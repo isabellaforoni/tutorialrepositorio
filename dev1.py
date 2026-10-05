@@ -1,1 +1,1 @@
-print 'isabella'
+print ('isabella')
